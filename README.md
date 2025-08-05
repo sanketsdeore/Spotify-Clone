@@ -11,7 +11,7 @@ This project is a Spotify Clone, a web application that mimics core functionalit
 - **Simple UI**: Clean and intuitive interface built with vanilla HTML, CSS, and JavaScript.
 
 ## Technologies Used
-- **Frontend**: HTML, CSS, JavaScript (Vanilla)
+- **Frontend**: HTML, CSS, JavaScript
 - **Data Source**: Songs fetched from a local folder
 - **No Backend**: Purely client-side application
 
@@ -65,8 +65,5 @@ Contributions are welcome! To contribute:
    ```
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
-For questions or suggestions, feel free to reach out to the project maintainer at [your-email@example.com].
+For questions or suggestions, feel free to reach out to the project maintainer at [sanketsdeore@gmail.com].
